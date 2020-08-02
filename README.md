@@ -1,4 +1,4 @@
 # Library
-Testing
+Testing-phase
 
-Stay tuned i guess
+Used for loading assets into ROBLOX studio through a plugin.
